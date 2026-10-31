@@ -1,0 +1,10 @@
+[
+  { "name": "BassCutoff", "type": "frequency", "min": 20, "max": 1000, "default": 250 },
+  { "name": "MidLowCutoff", "type": "frequency", "min": 20, "max": 2000, "default": 270 },
+  { "name": "MidHighCutoff", "type": "frequency", "min": 500, "max": 16000, "default": 3800 },
+  { "name": "HighCutoff", "type": "frequency", "min": 500, "max": 16000, "default": 3500 },
+  { "name": "SoloBass", "type": "bool", "default": false },
+  { "name": "SoloMids", "type": "bool", "default": false },
+  { "name": "SoloHighs", "type": "bool", "default": false },
+  { "name": "MonitorMid", "type": "bool", "default": false }
+]
